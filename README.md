@@ -9,7 +9,7 @@ Nothing to see here. Just wait 5 seconds for a suprise.
 <style>
 p {
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   margin-top: 0px;
 }
 </style>
